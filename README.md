@@ -1,8 +1,8 @@
-# Evaluating exon-skipping therapies targeting the central nervous system in Duchenne muscular dystrophy using high-resolution spatial transcriptomics
+# Evaluating exon skipping in the central nervous system in Duchenne muscular dystrophy using spatial transcriptomics
 
 This repository contains code and resources related to our manuscript:
 
-**Evaluating exon-skipping therapies targeting the central nervous system in Duchenne muscular dystrophy using high-resolution spatial transcriptomics**  
+**Evaluating exon skipping in the central nervous system in Duchenne muscular dystrophy using spatial transcriptomics**  
 Qirong Mao¹, Alireza Ahmadi¹, Sharon de Vries¹, Laura G.M. Heezen¹, Ophélie Vacca², Mathilde Doisy², Annemieke Aartsma-Rus¹˒³, Maaike van Putten¹˒³, Aurélie Goyenvalle², Ahmed Mahfouz¹˒⁴\*, Pietro Spitali¹˒³\*
 
 ¹ Department of Human Genetics, Leiden University Medical Center; Leiden, the Netherlands  
