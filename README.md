@@ -6,7 +6,7 @@ Analysis code for the mouse brain Xenium study in **iScience**. The repository i
 
 | Location | Contents |
 | --- | --- |
-| [Python workflows](python/README.md) | Xenium expression and co-detection, marker dot plots, junction-positive versus junction-negative comparisons, PCR/Western blot plots, and a Matrix Market export for Seurat. |
+| [Python workflows](python/README.md) | Xenium expression and co-detection, marker dot plots, junction-positive versus junction-negative comparisons, PCR/Western blot plots. |
 | [R workflow](R/README.md) | BANKSY spatial clustering for one Xenium slide, using four prepared Seurat objects and Xenium Analyzer metadata. |
 | [Allen Atlas workflows](python/README.md#allen-atlas-reference-and-exploratory-work) | Reference metadata and downsampling, plus separate exploratory Scanpy ingest and SpaGE scripts. These are not required for analyses that start from annotated Xenium H5ADs. |
 
