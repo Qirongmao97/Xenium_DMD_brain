@@ -1,0 +1,25 @@
+Assay,Region,Group,Value
+PCR,Hippocampus,U7ex51,49.1
+PCR,Hippocampus,U7ex51,58.6
+PCR,Hippocampus,U7ex51,69.2
+PCR,Hippocampus,ASO,22
+PCR,Hippocampus,ASO,20.4
+PCR,Hippocampus,ASO,55.5
+PCR,Cortex,U7ex51,85
+PCR,Cortex,U7ex51,62.2
+PCR,Cortex,U7ex51,67.5
+PCR,Cortex,ASO,62.5
+PCR,Cortex,ASO,8.6
+PCR,Cortex,ASO,29.3
+Western blot,Hippocampus,U7ex51,29.7
+Western blot,Hippocampus,U7ex51,35.2
+Western blot,Hippocampus,U7ex51,60.9
+Western blot,Hippocampus,ASO,12.9
+Western blot,Hippocampus,ASO,6.0
+Western blot,Hippocampus,ASO,7.7
+Western blot,Cortex,U7ex51,9.4
+Western blot,Cortex,U7ex51,27.5
+Western blot,Cortex,U7ex51,47.1
+Western blot,Cortex,ASO,12.6
+Western blot,Cortex,ASO,4.7
+Western blot,Cortex,ASO,4.7

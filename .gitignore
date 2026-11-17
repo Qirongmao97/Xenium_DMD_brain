@@ -1,0 +1,8 @@
+/data/
+/results/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.venv/
